@@ -32,3 +32,5 @@ Clases y Objetos con Validación:
 Modifica la clase Persona para que no acepte nombres vacíos y edades negativas. Utiliza un constructor primario con valores por defecto para edad.
 
 Prueba a crear un estudiante con una edad negativa, controlando las excepciones y mostrando el mensaje de error específico.
+
+Objetivo: Aprender a crear clases y objetos, a utilizar métodos y propiedades, a aplicar el encapsulamiento, a utilizar la herencia y el polimorfismo, y a controlar las excepciones.
